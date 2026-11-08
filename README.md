@@ -2,6 +2,8 @@
 
 **Can three cheap AI models, reading only what an AI agent did, catch the harmful things it did?**
 
+Three-minute video version: https://youtu.be/GZpzXS2KAOs
+
 This is the code behind a short research report written in one weekend for Apart Research's Swarm Alignment
 Hackathon (6 to 8 November 2026). It was built by Potestas AI, an independent lab that tests AI agents.
 
